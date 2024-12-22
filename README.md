@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Junhua
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web3+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 ## 🚀 About Me
@@ -34,14 +34,14 @@
 </p>
 
 ## 🐍 Contribution Graph
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Xiejunhua/Xiejunhua/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/junhua-xie-706402103" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <a href="https://twitter.com/@xiejunhua20081" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
